@@ -40,7 +40,7 @@ def CompareBlock(lines1:list[str], lines2:list[str], tag:str) -> bool:
 
 def PrintOut(strFile1:str,strFile2:str,strBlock:str,bSame:bool):
     strStatus = "Same" if bSame else "Diff"
-    print("{},{},{},{}\n".format(strFile1,strFile2,strBlock,strStatus))
+    print("{},{},{},{}".format(strFile1,strFile2,strBlock,strStatus))
 
 
 with open(strFile1, 'r', errors='ignore') as f1, open(strFile2, 'r', errors='ignore') as f2:
