@@ -38,8 +38,13 @@ def CompareBlock(lines1:list[str], lines2:list[str], tag:str) -> bool:
     bSame = CompareBlockCore(lines1, start1+1, lines2, start2+1, BLOCK_END)
     return bSame
 
+def PrintOut(strFile1:str,strFile2:str,strBlock:str,bSame:bool):
+    strStatus = "Same" if bSame else "Diff"
+    print("{},{},{},{}\n".format(strFile1,strFile2,strBlock,strStatus))
+
 
 with open(strFile1, 'r', errors='ignore') as f1, open(strFile2, 'r', errors='ignore') as f2:
     lines1 = f1.readlines()
     lines2 = f2.readlines()
     bSame = CompareBlock(lines1, lines2, "^保険計算後")
+    PrintOut(strFile1, strFile2, "保険計算後", bSame)
