@@ -1,35 +1,35 @@
 
 ---------------------------------------------------------------
 ÀsŠÂ‹«
-Às“ú(01/03/25,17:33:30,271747125) ºİËß­°À–¼(YSL62)
+Às“ú(01/06/25,17:44:42,531618109) ºİËß­°À–¼(YSL62)
 ÀsÌßÛ¸Ş×Ñ(C:\drs\WIN3\hnmai832.exe 479232 2023/11/14 15: 7:22)
 recept32.dll(C:\drs\WIN3\recept32.dll 751616 2023/11/16  9:47:46)
 ¶ÚİÄÃŞ¨Ú¸ÄØ°(C:\drs\WIN3)
 hnmai832.exe ºÏİÄŞ×²İ:(getu.tmp /O /J /T)
 ---------------------------------------------------------------
-HNTBL struct î•ñ(hnMainLoop in hnmai832.exe) “ú(01/03/25,17:33:31,271747921)
+HNTBL struct î•ñ(hnMainLoop in hnmai832.exe) “ú(01/06/25,17:44:43,531619125)
 hntbl_num(1)
 hn 0 recno(1081) pno(1000) hohandle(1,0,0,0) nyuuin(0) chosp(0) cvisit(120328,2024/3/1) cmonth(124,3) cdate(1) ctime(0) shuhoken_hdl(1) paper_hdl(1) id_shu_shinryouka(0) pbirth(67/6/22) seiho_and_seishin(0) reserve(0x000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(1) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-HNTBL struct î•ñ(hntbl) “ú(01/03/25,17:33:31,271747921)
+HNTBL struct î•ñ(hntbl) “ú(01/06/25,17:44:43,531619125)
 hntbl_num(1)
 hn 0 recno(1081) pno(1000) hohandle(1,0,0,0) nyuuin(0) chosp(0) cvisit(120328,2024/3/1) cmonth(124,3) cdate(1) ctime(0) shuhoken_hdl(1) paper_hdl(1) id_shu_shinryouka(0) pbirth(67/6/22) seiho_and_seishin(0) reserve(0x000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(1) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-SHUHOKEN struct î•ñ(hnMainLoop in hnmai832.exe) “ú(01/03/25,17:33:31,271747921)
+SHUHOKEN struct î•ñ(hnMainLoop in hnmai832.exe) “ú(01/06/25,17:44:43,531619125)
 shuhoken_num(30)
 s 0 hohandle(1) hoshu(1) ho_no(  011114            n) houbetsu(110) family(0) chosp(0) keizoku_flag(0) hohandlea(1,0,0,0) nyuuin(0) id_shu_shinryouka(0) hok_group(0) h1410_ReceKubun(5) f_kaigo(0) reserve(0x00000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(0) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-PAPER struct î•ñ(hnMainLoop in hnmai832.exe) “ú(01/03/25,17:33:31,271747921)
+PAPER struct î•ñ(hnMainLoop in hnmai832.exe) “ú(01/06/25,17:44:43,531619125)
 paper_num(60)
 p 0 paper(1) shuhoken_hdl(1) sequence(0) roujin_no() h1410_ReceKubun(5) reserve(0x000000000000000000000000) 
 -------------------------------------
 index(0x000000000bfffffffffffffffe01000003ffffffe80000000001ffffffd60801) 
 ---------------------------------------------------------------
-CMaisuu class î•ñ(hnMainLoop in hnmai832.exe) “ú(01/03/25,17:33:31,271747968)
-m_lpmaisuu(0x04B53FE8) MaisuuSize(101) 
+CMaisuu class î•ñ(hnMainLoop in hnmai832.exe) “ú(01/06/25,17:44:43,531619171)
+m_lpmaisuu(0x04E43FE8) MaisuuSize(101) 
  0 paper(1) lpname(‘•Û’P“Æ ŠO) lpdat(n2-2k) number(-1) rest(1) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,1,0,0) reserve(0x00000000000000000000000000000000) 
  1 paper(2) lpname(‘•Û’P“Æ “ü) lpdat(n2-1k) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
  2 paper(3) lpname(ˆã•Û’P“Æ –{ ŠO) lpdat(n2-3) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
@@ -114,8 +114,8 @@ m_lpmaisuu(0x04B53FE8) MaisuuSize(101)
 81 paper(203) lpname(Š´õÇ(’P“Æ)ŠO) lpdat(bg00) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
 82 paper(204) lpname(Š´õÇ(’P“Æ)“ü) lpdat(bn00) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-CMaisuu class î•ñ(intrface_main_maisuu in getuSB.exe) “ú(01/03/25,17:33:34,271751890)
-m_lpmaisuu(0x07376518) MaisuuSize(101) 
+CMaisuu class î•ñ(intrface_main_maisuu in getuSB.exe) “ú(01/06/25,17:44:48,531623343)
+m_lpmaisuu(0x063D0DD8) MaisuuSize(101) 
  0 paper(1) lpname(‘•Û’P“Æ ŠO) lpdat(bg22) number(1) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,1,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  1 paper(2) lpname(‘•Û’P“Æ “ü) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  2 paper(3) lpname(Ğ•Û’P“Æ –{ ŠO) lpdat(bg22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
@@ -188,8 +188,8 @@ m_lpmaisuu(0x07376518) MaisuuSize(101)
 69 paper(203) lpname(Š´õÇ(’P“Æ)ŠO) lpdat(bg22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
 70 paper(204) lpname(Š´õÇ(’P“Æ)“ü) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
 ---------------------------------------------------------------
-CMaisuu class î•ñ(intrface_main_maisuu in getuSB.exe) “ú(01/03/25,17:33:34,271751890)
-m_lpmaisuu(0x07376518) MaisuuSize(101) 
+CMaisuu class î•ñ(intrface_main_maisuu in getuSB.exe) “ú(01/06/25,17:44:48,531623359)
+m_lpmaisuu(0x063D0DD8) MaisuuSize(101) 
  0 paper(1) lpname(‘•Û’P“Æ ŠO) lpdat(bg22) number(1) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,1,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  1 paper(2) lpname(‘•Û’P“Æ “ü) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  2 paper(3) lpname(Ğ•Û’P“Æ –{ ŠO) lpdat(bg22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
@@ -263,7 +263,7 @@ m_lpmaisuu(0x07376518) MaisuuSize(101)
 70 paper(204) lpname(Š´õÇ(’P“Æ)“ü) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
 ---------------------------------------------------------------
 ÀsŠÂ‹«
-Às“ú(01/03/25,17:33:39,271756015) ºİËß­°À–¼(YSL62)
+Às“ú(01/06/25,17:44:53,531628375) ºİËß­°À–¼(YSL62)
 home.datî•ñ
 home_str0=(Lawrence
 )
@@ -316,8 +316,8 @@ home_str37=(home.dat‚É–¢’è‹`)
 home_str38=(home.dat‚É–¢’è‹`)
 home_str39=(home.dat‚É–¢’è‹`)
 home_str40=(home.dat‚É–¢’è‹`)
-ÀsÌßÛ¸Ş×Ñ(C:\drs\WIN3\getusb.exe 8123392 2025/ 1/ 3 16:29:17)
-SB.dll : Timestamp(01/03/2025,16:29:19) FileSize(7781376) 
+ÀsÌßÛ¸Ş×Ñ(C:\drs\WIN3\getusb.exe 4762112 2025/ 1/ 6 17:43:19)
+SB.dll : Timestamp(01/06/2025,16:55:35) FileSize(4825088) 
 recept32.dll(C:\drs\WIN3\recept32.dll 751616 2023/11/16  9:47:46)
 SBFutan.dll(C:\drs\WIN3\SBFutan.dll 2083840 2024/ 7/ 5 19:10:20)
 HomedatReader.dll(C:\drs\WIN3\HomedatReader.dll 8704 2023/12/28 16:20:14)
@@ -3082,7 +3082,7 @@ SBLEND
 
 ¶ÚİÄÃŞ¨Ú¸ÄØ°(C:\drs\WIN3)
 ˆã‰È,’²Ü‹¤’Ê
-sta_comeh(2024/3/1,120328) end_comeh(2024/3/31,120575) YAKKYOKU(0) SBL_USESBLOGICCOM(0) SBL_LOADALLCLASSES(0) KIJUN_CHOUKI(20240301,0) SANZAI_KONGOU(1) ShouhizeiHasuu(2024/3/1,1) ShouhizeiRitu(2024/3/1,0.100000) PERSONNO_FLEN(3) COMEHNO_FLEN(3) G_lpPrinterName(DRS Printer for NT4) G_MaxSpoolJobCount(10) G_Keisan_hoken_check(1) G_NotCheckKuseqInMatch(0) Y_FEED(0.000000) X_FEED(0.000000) rousai_shitei(0) GP_A4ReceVer(199709.1) ByoinLc(0x07372CC8:6001,6051,6065,6066,6073,6083,6086,6078,6054,6012,6262,6263,6286) strict_chk_dummyh(1) JIHI_SHOUHIZEI_UCHI_SOTO(1) PR201_DRV(TRANS95) PR201_PORT(NULL Pointer) OLDTEN(17) PrinterESC(1) G_Use_ReceDN(1) UseAlgopDat(0)
+sta_comeh(2024/3/1,120328) end_comeh(2024/3/31,120575) YAKKYOKU(0) SBL_USESBLOGICCOM(0) SBL_LOADALLCLASSES(0) KIJUN_CHOUKI(20240301,0) SANZAI_KONGOU(1) ShouhizeiHasuu(2024/3/1,1) ShouhizeiRitu(2024/3/1,0.100000) PERSONNO_FLEN(3) COMEHNO_FLEN(3) G_lpPrinterName(DRS Printer for NT4) G_MaxSpoolJobCount(10) G_Keisan_hoken_check(1) G_NotCheckKuseqInMatch(0) Y_FEED(0.000000) X_FEED(0.000000) rousai_shitei(0) GP_A4ReceVer(199709.1) ByoinLc(0x03858418:6001,6051,6065,6066,6073,6083,6086,6078,6054,6012,6262,6263,6286) strict_chk_dummyh(1) JIHI_SHOUHIZEI_UCHI_SOTO(1) PR201_DRV(TRANS95) PR201_PORT(NULL Pointer) OLDTEN(17) PrinterESC(1) G_Use_ReceDN(1) UseAlgopDat(0)
 ˆã‰È
 kasan_handan(1) BYOUIN_OR_SHINRYOU(0) G_ReceTekiyouRanByoumeiMode(1) G_ShouhiZeiKikanKeisan(1) choukikasan(0) G_choukikasan_core(20240301,0) KENSA_MARUME(1) GP_SOUGOU_BYOUIN(0) Checkon_FDMO(1) ByoumeiRaiinbiNoCheck(0) comment_kobetu(0) tekiyou_junjo(0) G_seisan_dat_edaban(0) G_AlgopOption_in_CmdLineZx(NULL Pointer) G_AutoDeleteRdtrc(0) G_InputPnoOdrAtKanjyaShitei(0) G_FmtGetu7_207_msg(0) G_SortByInputOrderAtShohousen(1)
 ’²Ü
@@ -3235,10 +3235,10 @@ getu8 ‹N“®Ì§²Ù(getu.tmp)“à—e
 sta_comeh(120328) end_comeh(120575) sta_k_no(0) end_k_no(4294967295)
 G_CSei9bi m_sei9bi_mode(0) m_sei9bi(0) G_SeikyuSho_NorG(0) G_IryouhiSeikyuuSho(0)
 ---------------------------------------------------------------
-SelKami,G_KamiArray î•ñ(OnOk in inpkami.cpp) “ú(01/03/25,17:33:42,271759890)
+SelKami,G_KamiArray î•ñ(OnOk in inpkami.cpp) “ú(01/06/25,17:44:56,531631359)
 SelKami(255,0) G_KamiArray.GetSize(2)((1,5),(255,0))
 ---------------------------------------------------------------
-Ú¾ÌßÄ—p† ID(1,0x1) –¼Ì(‘•Û’P“Æ ŠO) dat(bg22) “ú(01/03/25,17:33:43,271760781)
+Ú¾ÌßÄ—p† ID(1,0x1) –¼Ì(‘•Û’P“Æ ŠO) dat(bg22) “ú(01/06/25,17:44:56,531632234)
 ---------------------------------------------------------------
 SBPrint(ALGOP) ‘I‘ğî•ñ(‰º‹L‚ÌƒŠƒXƒg‚Ì’†‚©‚ç1”Ô‚Ìƒtƒ@ƒCƒ‹‚ªg—p‚³‚ê‚Ü‚µ‚½) 
 ˆóüƒƒWƒbƒN: bg22
@@ -3250,7 +3250,7 @@ SBPrint(ALGOP) ‘I‘ğî•ñ(‰º‹L‚ÌƒŠƒXƒg‚Ì’†‚©‚ç1”Ô‚Ìƒtƒ@ƒCƒ‹‚ªg—p‚³‚ê‚Ü‚µ‚½)
 g—p Algop Dat–¼:F:\userdbf\drs_std20230517\exe\getup.dat Ì§²Ù–³‚µ(bg22.dat) ChouzaiA4Rece(0) ChouzaiIttupouMatch(0)
 g—p SBPrint Dll–¼:..\SBP\SBP_H_GE_BG22_202204_YC_FDMO.dll DLL Timestamp(2024/05/28 17:05:28,1839104) UseAlgopDat(0) SBPPRI(SBPrint Priority)=1 
 ----------------------------------------------------------------------
-•ÛŒ¯ŒvZ‘O “ú(01/03/25,17:33:43,271760859)
+•ÛŒ¯ŒvZ‘O “ú(01/06/25,17:44:57,531632343)
 range=3
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 (null)[]
@@ -3270,28 +3270,28 @@ person_no 1000  comeh_no 120328  year 2024  month  3  day  1  time/0  st/0  ya/0
 logic loc=20 ct=18 134 (0,0) 991 (0,0) 992 (0,0) 6001 (0,0) 6012 (0,0) 6051 (0,0) 6054 (0,0) 6065 (0,0) 6066 (0,0) 6073 (0,0) 6078 (0,0) 6083 (0,0) 6086 (0,0) 6262 (0,0) 6263 (0,0) 6286 (0,0) 8205 (0,0) 14892 (0,0) 
 lcbuf_size:38
 ---------------------------------------------------------------
-hlogic_tbl(“Ç‚İ‚ ‚ª‚è‘ÎÛ˜_—º°ÄŞ) î•ñ(“Ç‚İ‚ ‚ª‚èî•ñ(“Ç‚İ‚ ‚ª‚è‘O) in GR_read_past(getuSB)) “ú(01/03/25,17:33:43,271760875)
+hlogic_tbl(“Ç‚İ‚ ‚ª‚è‘ÎÛ˜_—º°ÄŞ) î•ñ(“Ç‚İ‚ ‚ª‚èî•ñ(“Ç‚İ‚ ‚ª‚è‘O) in GR_read_past(getuSB)) “ú(01/06/25,17:44:57,531632359)
 
-plogic_tbl(0x073C50F0) comehno(120056,0x1d4f8,2024/1/31) 
+plogic_tbl(0x06447D00) comehno(120056,0x1d4f8,2024/1/31) 
    1 ori_data.logic_code(998) ori_data.tanni(3) ori_data.volume(1) ori_data.method(0) ori_data.sear_logic_code(2214) ori_data.taishou(0,0x0) standard_visit(120328,0x1d608,2024/3/1) end_visit(120328,0x1d608,2024/3/1) past_visit(120056,0x1d4f8,2024/1/31) next(0x00000000) 
-lpbuf(0x0FDB3828) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
+lpbuf(0x0FAE6B80) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
 ---------------------------------------------------------------
-hlogic_tbl(“Ç‚İ‚ ‚ª‚è‘ÎÛ˜_—º°ÄŞ) î•ñ(“Ç‚İ‚ ‚ª‚èî•ñ(“Ç‚İ‚ ‚ª‚èŒã) in GR_read_past(getuSB)) “ú(01/03/25,17:33:44,271760921)
+hlogic_tbl(“Ç‚İ‚ ‚ª‚è‘ÎÛ˜_—º°ÄŞ) î•ñ(“Ç‚İ‚ ‚ª‚èî•ñ(“Ç‚İ‚ ‚ª‚èŒã) in GR_read_past(getuSB)) “ú(01/06/25,17:44:57,531632437)
 
-plogic_tbl(0x073C50F0) comehno(120056,0x1d4f8,2024/1/31) 
+plogic_tbl(0x06447D00) comehno(120056,0x1d4f8,2024/1/31) 
    1 ori_data.logic_code(998) ori_data.tanni(3) ori_data.volume(1) ori_data.method(0) ori_data.sear_logic_code(2214) ori_data.taishou(0,0x0) standard_visit(120328,0x1d608,2024/3/1) end_visit(120328,0x1d608,2024/3/1) past_visit(120056,0x1d4f8,2024/1/31) next(0x00000000) 
-lpbuf(0x0FDB3828) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
+lpbuf(0x0FAE6B80) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
 --------------------- Timing Information ----------------------
 1. Statistics (number of times)
    - SBLogic COM server called           19
    - COM called for SB functions       1048
 
 2. Function Path (milliseconds)
-   GroupLogic             187
-   -> ReadPast             46
+   GroupLogic             235
+   -> ReadPast             78
       -> ReadHoken          1 times
-      -> ReadHoken Time:        46 millisec
-   -> HokenShori           94
+      -> ReadHoken Time:        78 millisec
+   -> HokenShori          109
       -> ReadPast2          0
          -> ReadHoken2      1 times
    -> Re-evaluation of logics for state changes
@@ -3303,12 +3303,12 @@ lpbuf(0x0FDB3828) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
 
 4. Logic Calculation (count, milliseconds, milliseconds for ReadPast)
    6263 (   2,   0,   0)   6262 (   2,   0,   0)   6286 (   2,   0,   0)   6012 (   2,   0,   0)   6001 (   2,   0,   0)
-   8205 (   2,   0,   0)  14199 (   1,   0,   0)   6054 (   2,   0,   0)   6051 (   2,  15,   0)   6078 (   2,   0,   0)
+   8205 (   2,   0,   0)  14199 (   1,   0,   0)   6054 (   2,   0,   0)   6051 (   2,   0,   0)   6078 (   2,   0,   0)
    6073 (   2,   0,   0)   6066 (   2,   0,   0)   6065 (   2,   0,   0)   6086 (   2,   0,   0)   6083 (   2,   0,   0)
-    134 (   1,   0,   0)   2600 (   1,   0,   0)    991 (   2,   0,   0)    992 (   2,   0,   0)    998 (   1,  47,   0)
-  14895 (   1,   0,   0)  14892 (   2,   0,   0)   1876 (   1,   0,   0)   1058 (   1,  32,   0)
+    134 (   1,  15,   0)   2600 (   1,   0,   0)    991 (   2,   0,   0)    992 (   2,   0,   0)    998 (   1,  63,   0)
+  14895 (   1,  16,   0)  14892 (   2,   0,   0)   1876 (   1,   0,   0)   1058 (   1,  31,   0)
    Total number of logics called    24
-   Total logic-calculation time     94 (HokenShori + Re-evaluation for state changes)
+   Total logic-calculation time    125 (HokenShori + Re-evaluation for state changes)
 ----------------------------------------------------------------------
 ˆ•û‚¹‚ñ—¿Aˆ•û—¿‚ÌZ’è‚Ég—p‚µ‚½–òÜ
 
@@ -3343,7 +3343,7 @@ kusuri.dbf‚Ì—LŒøŠúŠÔƒŒƒR[ƒh‚Ìku_zoro: 0x80
 ŠY“––òÜ‚È‚µ
 
 ----------------------------------------------------------------------
-•ÛŒ¯ŒvZŒã “ú(01/03/25,17:33:44,271761046)
+•ÛŒ¯ŒvZŒã “ú(01/06/25,17:44:57,531632578)
 range=3
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 (null)[]
@@ -3363,7 +3363,7 @@ person_no 1000  comeh_no 120328  year 2024  month  3  day  1  time/0  st/0  ya/0
 logic loc=21 ct=18 134 (82,0) 991 (0,0) 992 (0,0) 6001 (0,0) 6012 (0,0) 6051 (0,0) 6054 (0,0) 6065 (0,0) 6066 (0,0) 6073 (0,0) 6078 (0,0) 6083 (0,0) 6086 (0,0) 6262 (0,0) 6263 (0,0) 6286 (0,0) 8205 (0,0) 14892 (0,0) 
 lcbuf_size:41
 ---------------------------------------------------------------
-person struct î•ñ(•ÛŒ¯ŒvZŒã) “ú(01/03/25,17:33:44,271761046)
+person struct î•ñ(•ÛŒ¯ŒvZŒã) “ú(01/06/25,17:44:57,531632578)
 Š³Ò”Ô† k_no(1000) userno(NULL Pointer)
 ptoa(1000,0x3e8) fa_f(0,0x0) fa(0,0x0) birth(1967/6/22)
 
@@ -3381,12 +3381,12 @@ kanjya_futan2(0) kanjya_futan(0) kanjya_futanritu(158,0x9e) genmen(0,0x0) genrit
 rousai byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 byouin byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 ---------------------------------------------------------------
-FUTAN_IN struct î•ñ(FutanKeisan call‘O) “ú(01/03/25,17:33:44,271761046)
+FUTAN_IN struct î•ñ(FutanKeisan call‘O) “ú(01/06/25,17:44:57,531632578)
 
-psumbox(0x14F8D990,0x00000000,0x00000000,0x00000000,0x00000000)
+psumbox(0x064C6878,0x00000000,0x00000000,0x00000000,0x00000000)
 end_comeh(120575,0x1d6ff,2024/3/31) first_comeh(120328,0x1d608,2024/3/1) futankin(0) ritu_keisan(0) YAKKYOKU(0) rousai_shitei(0) bath_year(67) bath_month(6) bath_day(22) year(124) month(3) days(0,0x00)
 ckind0(110,0) chdl(1) ckind1(0,0) chdl(0) ckind2(0,0) chdl(0) ckind3(0,0) chdl(0) ckind4(0,0) chdl(0) 
-paper_code(1) horecept(0x14F8C958) hSebuf(0,0x0) id_shu_shinryouka(0) HOKENDISKOUT_SWITCH(1) byouin_code(0) byouin_flag(0x00000000) IkaRouFutankinMode(0) shohousen_f(0) hGetuSebuf(0,0x0) shohousen_comehno(0,0x0,1985/1/0) PreIkaRouFutankinMode(0,0x0) RaiinMode(0,0x0) zaisoushin_f(1) zaisoushin_comehno(0,0x0,1985/1/0) sta_comeh(120328,0x1d608,2024/3/1) reserve(0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+paper_code(1) horecept(0x06448050) hSebuf(0,0x0) id_shu_shinryouka(0) HOKENDISKOUT_SWITCH(1) byouin_code(0) byouin_flag(0x00000000) IkaRouFutankinMode(0) shohousen_f(0) hGetuSebuf(0,0x0) shohousen_comehno(0,0x0,1985/1/0) PreIkaRouFutankinMode(0,0x0) RaiinMode(0,0x0) zaisoushin_f(1) zaisoushin_comehno(0,0x0,1985/1/0) sta_comeh(120328,0x1d608,2024/3/1) reserve(0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
 
 --------------------------------------------------------
 SBFutan drs.iniİ’èî•ñ
@@ -3487,7 +3487,7 @@ Calculation Status
 
 
 ---------------------------------------------------------------
-seisan_box struct î•ñ(SBFutan(delta version) ŒvZ’¼Œã) “ú(01/03/25,17:33:44,271761062)
+seisan_box struct î•ñ(SBFutan(delta version) ŒvZ’¼Œã) “ú(01/06/25,17:44:57,531632593)
 
 No.0 kind(1,0x1)
 yenten(0) yenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0) futanyen(0) futanyenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
@@ -3506,11 +3506,11 @@ sitsuryo_yen(0) sitsuryo_futan(0) sitsuryo_day(0) sitsuryo_hyojyun_futan(0)
 seikatu_yen(0) seikatu_futan(0) seikatu_day(0) seikatu_hyojyun_futan(0)
 sentei_sum(0) sentei_shouhizei_sum(0)
 ---------------------------------------------------------------
-FUTAN_OUT struct î•ñ(FutanKeisan callŒã) “ú(01/03/25,17:33:44,271761062)
+FUTAN_OUT struct î•ñ(FutanKeisan callŒã) “ú(01/06/25,17:44:57,531632593)
 
-lpseisan_data(0x020C132C) lpK_KYUFU_G(0x020D388C) *lpK_KYUFU_G(7,0x7) lpK_KYUFU_N(0x020D371C) *lpK_KYUFU_N(7,0x7) lpfutan_ritu(0x020D3710) *lpfutan_ritu(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) *lpfutan_ritu2(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) WarnningRoujinGairaiShohousenClip(0) RetFlags.Use_TougetuSouTensuu(0) RetFlags.Use_TougetuSouSeikyu(0) RetFlags.Show_SaikeisanGamen(0) RetFlags.Dummy(0,0x0) TougetuSouTensuu(0) TougetuSouSeikyu(0) reserve(0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+lpseisan_data(0x01552E8C) lpK_KYUFU_G(0x015623A4) *lpK_KYUFU_G(7,0x7) lpK_KYUFU_N(0x01562234) *lpK_KYUFU_N(7,0x7) lpfutan_ritu(0x01562228) *lpfutan_ritu(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) *lpfutan_ritu2(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) WarnningRoujinGairaiShohousenClip(0) RetFlags.Use_TougetuSouTensuu(0) RetFlags.Use_TougetuSouSeikyu(0) RetFlags.Show_SaikeisanGamen(0) RetFlags.Dummy(0,0x0) TougetuSouTensuu(0) TougetuSouSeikyu(0) reserve(0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
 ----------------------------------------------------------------------
-•‰’S‹àŒvZŒã “ú(01/03/25,17:33:44,271761062)
+•‰’S‹àŒvZŒã “ú(01/06/25,17:44:57,531632593)
 range=3
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)
@@ -3523,14 +3523,14 @@ logic loc=0 ct=21 991 (0,0) 992 (0,0) 1058 (0,0) 1876 (0,0) 2600 (0,0) 6001 (0,0
 person_no 1000  comeh_no 120328  year 2024  month  3  day  1  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 252  id_1 100  id_2  0  id_3 106  id_3_5    0  id_ko  1  id_hogai00  id_4  1  id_4_5  1  id_sub_shohou_no  1  id_5  0  id_6 11961  seq  0  id_7   0  id_8   0  id_9 150  id_10  1  id_10_seikyu  1  id_11       1.0  id_12     1.000  id_13 129  id_14    0.6  id_sum      0  shohou_g_no 129  shohou_g_no2 1  shohou_g_oya 0  zangen_g_no 0  134 50001 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 •a‹Chdl()  dencd(613120001) zoro(128) org_id_4(1) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(613120001) nyuin_nisuu(-)
 logic loc=21 ct=18 134 (0,0) 991 (0,0) 992 (0,0) 6001 (0,0) 6012 (0,0) 6051 (0,0) 6054 (0,0) 6065 (0,0) 6066 (0,0) 6073 (0,0) 6078 (0,0) 6083 (0,0) 6086 (0,0) 6262 (0,0) 6263 (0,0) 6286 (0,0) 8205 (0,0) 14892 (0,0) 
-   2 Twùñ
+   2 ”1õò
 (null)
 person_no 1000  comeh_no 120575  year 2024  month  3  day 31  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 282  id_1 255  id_2  0  id_3   1  id_3_549999  id_ko  1  id_hogai00  id_4  2  id_4_5  0  id_sub_shohou_no  1  id_5  0  id_6     0  seq  0  id_7   0  id_8   0  id_9   0  id_10  0  id_10_seikyu  0  id_11       0.0  id_12     0.000  id_13   1  id_14    0.0  id_sum      0  shohou_g_no 0  shohou_g_no2 0  shohou_g_oya 2  zangen_g_no 0  0 81546 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 •a‹Chdl()  dencd(0) zoro(0) org_id_4(0) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(0) nyuin_nisuu(-)
 logic loc=0 ct=1 1:16010 (0,0)
 lcbuf_size:41
 ---------------------------------------------------------------
-seisan_box struct î•ñ(•ÛŒ¯ŒvZŒã) “ú(01/03/25,17:33:44,271761062)
+seisan_box struct î•ñ(•ÛŒ¯ŒvZŒã) “ú(01/06/25,17:44:57,531632593)
 
 No.0 kind(1,0x1)
 yenten(0) yenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0) futanyen(0) futanyenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
@@ -3549,7 +3549,7 @@ sitsuryo_yen(0) sitsuryo_futan(0) sitsuryo_day(0) sitsuryo_hyojyun_futan(0)
 seikatu_yen(0) seikatu_futan(0) seikatu_day(0) seikatu_hyojyun_futan(0)
 sentei_sum(0) sentei_shouhizei_sum(0)
 ----------------------------------------------------------------------
-%4u Œ–Ú ˆóü’†   Š³Ò”Ô†%6lu  –¼F%-20s “ú(01/03/25,17:33:44,271761062)
+%4u Œ–Ú ˆóü’†   Š³Ò”Ô†%6lu  –¼F%-20s “ú(01/06/25,17:44:57,531632593)
 range=3
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)
@@ -3560,7 +3560,7 @@ person_no 1000  comeh_no 120328  year 2024  month  3  day  1  time/0  st/1000  y
 ‚Q‚T‚‚‡ƒAƒŠƒiƒ~ƒ“‚e“œˆßù||3122007F2039
 person_no 1000  comeh_no 120328  year 2024  month  3  day  1  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 252  id_1 100  id_2  0  id_3 106  id_3_5    0  id_ko  1  id_hogai00  id_4  1  id_4_5  1  id_sub_shohou_no  1  id_5  0  id_6 11961  seq  0  id_7   0  id_8   0  id_9 150  id_10  1  id_10_seikyu  1  id_11       1.0  id_12     1.000  id_13 129  id_14    0.6  id_sum      0  shohou_g_no 129  shohou_g_no2 1  shohou_g_oya 0  zangen_g_no 0  134 50001 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 •a‹Chdl()  dencd(613120001) zoro(128) org_id_4(1) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(613120001) nyuin_nisuu(-)
-   2 Twùñ
+   2 ”1õò
 (null)
 person_no 1000  comeh_no 120575  year 2024  month  3  day 31  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 282  id_1 255  id_2  0  id_3   1  id_3_549999  id_ko  1  id_hogai00  id_4  2  id_4_5  0  id_sub_shohou_no  1  id_5  0  id_6     0  seq  0  id_7   0  id_8   0  id_9   0  id_10  0  id_10_seikyu  0  id_11       0.0  id_12     0.000  id_13   1  id_14    0.0  id_sum      0  shohou_g_no 0  shohou_g_no2 0  shohou_g_oya 2  zangen_g_no 0  0 81546 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 •a‹Chdl()  dencd(0) zoro(0) org_id_4(0) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(0) nyuin_nisuu(-)
@@ -3572,8 +3572,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x7469a78) NO(0)
-hoken_loc(0) hoken_rec(0x14f8cae8) print_str((null)) sho_ku(0)
+hoken_box(0x6447cd0) NO(0)
+hoken_loc(0) hoken_rec(0x64c6418) print_str((null)) sho_ku(0)
 comeh(124/3/1) id3(106) id_3_5(0) id_3_5_c(ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(0)
 
@@ -3588,8 +3588,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x7469a78) NO(0)
-hoken_loc(0) hoken_rec(0x14f8cae8) print_str((null)) sho_ku(0)
+hoken_box(0x6447cd0) NO(0)
+hoken_loc(0) hoken_rec(0x64c6418) print_str((null)) sho_ku(0)
 comeh(124/3/1) id3(106) id_3_5(0) id_3_5_c(ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(0)
 
@@ -3604,8 +3604,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x74699d8) NO(0)
-hoken_loc(0) hoken_rec(0x14f8cae8) print_str((null)) sho_ku(0)
+hoken_box(0x6447dc0) NO(0)
+hoken_loc(0) hoken_rec(0x64c6418) print_str((null)) sho_ku(0)
 comeh(124/3/1) id3(106) id_3_5(0) id_3_5_c(ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(0)
 
@@ -3620,8 +3620,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x74699d8) NO(0)
-hoken_loc(0) hoken_rec(0x14f8cae8) print_str((null)) sho_ku(0)
+hoken_box(0x6447dc0) NO(0)
+hoken_loc(0) hoken_rec(0x64c6418) print_str((null)) sho_ku(0)
 comeh(124/3/1) id3(106) id_3_5(0) id_3_5_c(ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(0)
 
@@ -3630,8 +3630,8 @@ aHokenPtr
 comeh(124/3/1) id3(106) id_3_5(0) id_3_5_c(ˆ•ûâ³—¿(ØÌ¨ÙˆÈŠOE‚»‚Ì‘¼)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 
 ---------------------------------------------------------------
-algopxy.dbf‚æ‚è“Ç‚ñ‚¾XYÀ•Wî•ñ(in GP_lpout(algopŠÖ”uGP_PrintOutvI—¹)) “ú(01/03/25,17:33:52,271769453)
-m_read_paper_name(bg22) m_paper_name() xy_paper_len(8) xy_label_len(20) maxnum(5000) xytbl(0x04620068) 
+algopxy.dbf‚æ‚è“Ç‚ñ‚¾XYÀ•Wî•ñ(in GP_lpout(algopŠÖ”uGP_PrintOutvI—¹)) “ú(01/06/25,17:45:05,531641093)
+m_read_paper_name(bg22) m_paper_name() xy_paper_len(8) xy_label_len(20) maxnum(5000) xytbl(0x03500048) 
    0 label(ALL)x(  0.00)y(  0.00)w(  0.00)h(  0.00)charsp(  0.00)
    1 label(ADD)x( 11.90)y(  5.00)w(  8.38)h(  0.00)charsp(  0.00)
    2 label(ADD)x( 11.90)y(  5.00)w(  8.38)h(  0.00)charsp(  0.00)
@@ -3711,7 +3711,7 @@ m_read_paper_name(bg22) m_paper_name() xy_paper_len(8) xy_label_len(20) maxnum(5
 1563 label(JBK_TEN)x(  0.00)y(  0.00)w(  0.00)h(  0.00)charsp(  0.00)
 1567 label(JBK_SHOHOUSEN_SHOKEI)x(  0.00)y(  0.00)w(  0.00)h(  0.00)charsp(  0.00)
 ---------------------------------------------------------------
-person struct î•ñ(algopÀsŒã) “ú(01/03/25,17:33:52,271769453)
+person struct î•ñ(algopÀsŒã) “ú(01/06/25,17:45:05,531641093)
 Š³Ò”Ô† k_no(1000) userno(NULL Pointer)
 ptoa(1000,0x3e8) fa_f(0,0x0) fa(0,0x0) birth(1967/6/22)
 
@@ -3729,16 +3729,16 @@ kanjya_futan2(0) kanjya_futan(0) kanjya_futanritu(158,0x9e) genmen(0,0x0) genrit
 rousai byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 byouin byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 ---------------------------------------------------------------
-Àf—Ã“ú”,ó•t‰ñ” î•ñ(log_db_data_set 2 in test34.cpp) “ú(01/03/25,17:33:52,271769468)
+Àf—Ã“ú”,ó•t‰ñ” î•ñ(log_db_data_set 1 in test34.cpp) “ú(01/06/25,17:45:05,531641093)
 
 days(1) seisan_box_loc(0) ho_flag(0,0,0,0,0,0,0,0,0,0) ex_ho_flag(0,0,0,0,0,0,0,0,0,0)  ƒJƒEƒ“ƒgî•ñ:(0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 ----------------------------------
 Àf—Ã“ú”A•ÛŒ¯ƒnƒ“ƒhƒ‹‚²‚Æ
-kind[726880486]
+kind[1187757886]
 hohdl[0] day[0]
 hohdl[0] day[0]
 hohdl[0] day[0]
 ---------------------------------------------------------------
-Àf—Ã“ú”,ó•t‰ñ” î•ñ(set_kansan_futan_hoken in test34.cpp) “ú(01/03/25,17:33:52,271769468)
+Àf—Ã“ú”,ó•t‰ñ” î•ñ(set_kansan_futan_hoken in test34.cpp) “ú(01/06/25,17:45:05,531641093)
 
 days(1) seisan_box_loc(-1) ho_flag(NULL) ex_ho_flag(NULL)  ƒJƒEƒ“ƒgî•ñ:(0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)

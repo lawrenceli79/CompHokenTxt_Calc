@@ -1,32 +1,32 @@
 
 ---------------------------------------------------------------
 é¿çsä¬ã´
-é¿çsì˙éû(01/03/25,17:34:36,271813343) ∫›Àﬂ≠∞¿ñº(YSL62)
+é¿çsì˙éû(01/06/25,17:45:24,531660234) ∫›Àﬂ≠∞¿ñº(YSL62)
 é¿çsÃﬂ€∏ﬁ◊—(C:\drs\WIN3\hnmai832.exe 479232 2023/11/14 15: 7:22)
 recept32.dll(C:\drs\WIN3\recept32.dll 751616 2023/11/16  9:47:46)
 ∂⁄›ƒ√ﬁ®⁄∏ƒÿ∞(C:\drs\WIN3)
 hnmai832.exe ∫œ›ƒﬁ◊≤›:(getu.tmp /O /J /T)
 ---------------------------------------------------------------
-HNTBL struct èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/03/25,17:34:37,271814093)
+HNTBL struct èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/06/25,17:45:25,531661187)
 hntbl_num(2)
 hn 0 recno(1079) pno(1000) hohandle(1,0,0,0) nyuuin(0) chosp(0) cvisit(120072,2024/2/1) cmonth(124,2) cdate(1) ctime(0) shuhoken_hdl(1) paper_hdl(1) id_shu_shinryouka(0) pbirth(67/6/22) seiho_and_seishin(0) reserve(0x000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(1) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 hn 1 recno(1080) pno(1000) hohandle(1,0,0,0) nyuuin(0) chosp(0) cvisit(120104,2024/2/5) cmonth(124,2) cdate(5) ctime(0) shuhoken_hdl(1) paper_hdl(1) id_shu_shinryouka(0) pbirth(67/6/22) seiho_and_seishin(0) reserve(0x000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(1) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-HNTBL struct èÓïÒ(hntbl) ì˙éû(01/03/25,17:34:37,271814093)
+HNTBL struct èÓïÒ(hntbl) ì˙éû(01/06/25,17:45:25,531661187)
 hntbl_num(2)
 hn 0 recno(1079) pno(1000) hohandle(1,0,0,0) nyuuin(0) chosp(0) cvisit(120072,2024/2/1) cmonth(124,2) cdate(1) ctime(0) shuhoken_hdl(1) paper_hdl(1) id_shu_shinryouka(0) pbirth(67/6/22) seiho_and_seishin(0) reserve(0x000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(1) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 hn 1 recno(1080) pno(1000) hohandle(1,0,0,0) nyuuin(0) chosp(0) cvisit(120104,2024/2/5) cmonth(124,2) cdate(5) ctime(0) shuhoken_hdl(1) paper_hdl(1) id_shu_shinryouka(0) pbirth(67/6/22) seiho_and_seishin(0) reserve(0x000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(1) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-SHUHOKEN struct èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/03/25,17:34:37,271814093)
+SHUHOKEN struct èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/06/25,17:45:25,531661187)
 shuhoken_num(30)
 s 0 hohandle(1) hoshu(1) ho_no(  011114            n) houbetsu(110) family(0) chosp(0) keizoku_flag(0) hohandlea(1,0,0,0) nyuuin(0) id_shu_shinryouka(0) hok_group(0) h1410_ReceKubun(5) f_kaigo(0) reserve(0x00000000) 
   h0 houbetsu(110) hoshu(1) family(0) ho_no(  011114            ) main_flag(0) keizoku_flag(0) ho_reserve(0x0000000000000000) ho_jikorit(158) ho_genmen(0,0x00) kanjya_futan_ritu(30) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-PAPER struct èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/03/25,17:34:37,271814093)
+PAPER struct èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/06/25,17:45:25,531661187)
 paper_num(60)
 p 0 paper(1) shuhoken_hdl(1) sequence(0) roujin_no() h1410_ReceKubun(5) reserve(0x000000000000000000000000) 
 -------------------------------------
@@ -34,8 +34,8 @@ index(0x000000000bfffffffffffffffe01000003ffffffe80000000001ffffffd50801)
 -------------------------------------
 index(0x000000010bfffffffffffffffe01000003ffffffe80000000001ffffffd52801) 
 ---------------------------------------------------------------
-CMaisuu class èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/03/25,17:34:37,271814140)
-m_lpmaisuu(0x04F63FE8) MaisuuSize(101) 
+CMaisuu class èÓïÒ(hnMainLoop in hnmai832.exe) ì˙éû(01/06/25,17:45:25,531661234)
+m_lpmaisuu(0x07F73FE8) MaisuuSize(101) 
  0 paper(1) lpname(çëï€íPì∆ äO) lpdat(n2-2k) number(-1) rest(1) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,1,0,0) reserve(0x00000000000000000000000000000000) 
  1 paper(2) lpname(çëï€íPì∆ ì¸) lpdat(n2-1k) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
  2 paper(3) lpname(à„ï€íPì∆ ñ{ äO) lpdat(n2-3) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
@@ -120,8 +120,8 @@ m_lpmaisuu(0x04F63FE8) MaisuuSize(101)
 81 paper(203) lpname(ä¥êıè«(íPì∆)äO) lpdat(bg00) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
 82 paper(204) lpname(ä¥êıè«(íPì∆)ì¸) lpdat(bn00) number(-1) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(-1,-1,-1,-1,-1,-1,-1,-1) restbykubun(0,0,0,0,0,0,0,0) reserve(0x00000000000000000000000000000000) 
 ---------------------------------------------------------------
-CMaisuu class èÓïÒ(intrface_main_maisuu in getuSB.exe) ì˙éû(01/03/25,17:34:40,271817250)
-m_lpmaisuu(0x07376518) MaisuuSize(101) 
+CMaisuu class èÓïÒ(intrface_main_maisuu in getuSB.exe) ì˙éû(01/06/25,17:45:30,531665375)
+m_lpmaisuu(0x05E10DD8) MaisuuSize(101) 
  0 paper(1) lpname(çëï€íPì∆ äO) lpdat(bg22) number(1) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,1,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  1 paper(2) lpname(çëï€íPì∆ ì¸) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  2 paper(3) lpname(é–ï€íPì∆ ñ{ äO) lpdat(bg22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
@@ -194,8 +194,8 @@ m_lpmaisuu(0x07376518) MaisuuSize(101)
 69 paper(203) lpname(ä¥êıè«(íPì∆)äO) lpdat(bg22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
 70 paper(204) lpname(ä¥êıè«(íPì∆)ì¸) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
 ---------------------------------------------------------------
-CMaisuu class èÓïÒ(intrface_main_maisuu in getuSB.exe) ì˙éû(01/03/25,17:34:40,271817250)
-m_lpmaisuu(0x07376518) MaisuuSize(101) 
+CMaisuu class èÓïÒ(intrface_main_maisuu in getuSB.exe) ì˙éû(01/06/25,17:45:30,531665375)
+m_lpmaisuu(0x05E10DD8) MaisuuSize(101) 
  0 paper(1) lpname(çëï€íPì∆ äO) lpdat(bg22) number(1) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,1,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  1 paper(2) lpname(çëï€íPì∆ ì¸) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,1,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
  2 paper(3) lpname(é–ï€íPì∆ ñ{ äO) lpdat(bg22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,1,1,1,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
@@ -269,7 +269,7 @@ m_lpmaisuu(0x07376518) MaisuuSize(101)
 70 paper(204) lpname(ä¥êıè«(íPì∆)ì¸) lpdat(bn22) number(0) rest(0) f_fdmo(0) Validbykubun(0,0,0,0,0,0,0,0) numberbykubun(0,0,0,0,0,0,0,0) restbykubun(0,0,0,0,0,0,0,0)  reserve(0x00000000000000000000000000000000)
 ---------------------------------------------------------------
 é¿çsä¬ã´
-é¿çsì˙éû(01/03/25,17:34:40,271817390) ∫›Àﬂ≠∞¿ñº(YSL62)
+é¿çsì˙éû(01/06/25,17:45:35,531670609) ∫›Àﬂ≠∞¿ñº(YSL62)
 home.datèÓïÒ
 home_str0=(Lawrence
 )
@@ -322,8 +322,8 @@ home_str37=(home.datÇ…ñ¢íËã`)
 home_str38=(home.datÇ…ñ¢íËã`)
 home_str39=(home.datÇ…ñ¢íËã`)
 home_str40=(home.datÇ…ñ¢íËã`)
-é¿çsÃﬂ€∏ﬁ◊—(C:\drs\WIN3\getusb.exe 8123392 2025/ 1/ 3 16:29:17)
-SB.dll : Timestamp(01/03/2025,16:29:19) FileSize(7781376) 
+é¿çsÃﬂ€∏ﬁ◊—(C:\drs\WIN3\getusb.exe 4762112 2025/ 1/ 6 17:43:19)
+SB.dll : Timestamp(01/06/2025,16:55:35) FileSize(4825088) 
 recept32.dll(C:\drs\WIN3\recept32.dll 751616 2023/11/16  9:47:46)
 SBFutan.dll(C:\drs\WIN3\SBFutan.dll 2083840 2024/ 7/ 5 19:10:20)
 HomedatReader.dll(C:\drs\WIN3\HomedatReader.dll 8704 2023/12/28 16:20:14)
@@ -3088,7 +3088,7 @@ SBLEND
 
 ∂⁄›ƒ√ﬁ®⁄∏ƒÿ∞(C:\drs\WIN3)
 à„â»,í≤ç‹ã§í 
-sta_comeh(2024/2/1,120072) end_comeh(2024/2/31,120319) YAKKYOKU(0) SBL_USESBLOGICCOM(0) SBL_LOADALLCLASSES(0) KIJUN_CHOUKI(20240201,0) SANZAI_KONGOU(1) ShouhizeiHasuu(2024/2/1,1) ShouhizeiRitu(2024/2/1,0.100000) PERSONNO_FLEN(3) COMEHNO_FLEN(3) G_lpPrinterName(DRS Printer for NT4) G_MaxSpoolJobCount(10) G_Keisan_hoken_check(1) G_NotCheckKuseqInMatch(0) Y_FEED(0.000000) X_FEED(0.000000) rousai_shitei(0) GP_A4ReceVer(199709.1) ByoinLc(0x073A6B80:6001,6051,6065,6066,6073,6083,6086,6078,6054,6012,6262,6263,6286) strict_chk_dummyh(1) JIHI_SHOUHIZEI_UCHI_SOTO(1) PR201_DRV(TRANS95) PR201_PORT(NULL Pointer) OLDTEN(17) PrinterESC(1) G_Use_ReceDN(1) UseAlgopDat(0)
+sta_comeh(2024/2/1,120072) end_comeh(2024/2/31,120319) YAKKYOKU(0) SBL_USESBLOGICCOM(0) SBL_LOADALLCLASSES(0) KIJUN_CHOUKI(20240201,0) SANZAI_KONGOU(1) ShouhizeiHasuu(2024/2/1,1) ShouhizeiRitu(2024/2/1,0.100000) PERSONNO_FLEN(3) COMEHNO_FLEN(3) G_lpPrinterName(DRS Printer for NT4) G_MaxSpoolJobCount(10) G_Keisan_hoken_check(1) G_NotCheckKuseqInMatch(0) Y_FEED(0.000000) X_FEED(0.000000) rousai_shitei(0) GP_A4ReceVer(199709.1) ByoinLc(0x03348B98:6001,6051,6065,6066,6073,6083,6086,6078,6054,6012,6262,6263,6286) strict_chk_dummyh(1) JIHI_SHOUHIZEI_UCHI_SOTO(1) PR201_DRV(TRANS95) PR201_PORT(NULL Pointer) OLDTEN(17) PrinterESC(1) G_Use_ReceDN(1) UseAlgopDat(0)
 à„â»
 kasan_handan(1) BYOUIN_OR_SHINRYOU(0) G_ReceTekiyouRanByoumeiMode(1) G_ShouhiZeiKikanKeisan(1) choukikasan(0) G_choukikasan_core(20240201,0) KENSA_MARUME(1) GP_SOUGOU_BYOUIN(0) Checkon_FDMO(1) ByoumeiRaiinbiNoCheck(0) comment_kobetu(0) tekiyou_junjo(0) G_seisan_dat_edaban(0) G_AlgopOption_in_CmdLineZx(NULL Pointer) G_AutoDeleteRdtrc(0) G_InputPnoOdrAtKanjyaShitei(0) G_FmtGetu7_207_msg(0) G_SortByInputOrderAtShohousen(1)
 í≤ç‹
@@ -3241,10 +3241,10 @@ getu8 ãNìÆÃß≤Ÿ(getu.tmp)ì‡óe
 sta_comeh(120072) end_comeh(120319) sta_k_no(0) end_k_no(4294967295)
 G_CSei9bi m_sei9bi_mode(0) m_sei9bi(0) G_SeikyuSho_NorG(0) G_IryouhiSeikyuuSho(0)
 ---------------------------------------------------------------
-SelKami,G_KamiArray èÓïÒ(OnOk in inpkami.cpp) ì˙éû(01/03/25,17:34:46,271823343)
+SelKami,G_KamiArray èÓïÒ(OnOk in inpkami.cpp) ì˙éû(01/06/25,17:45:38,531673421)
 SelKami(255,0) G_KamiArray.GetSize(2)((1,5),(255,0))
 ---------------------------------------------------------------
-⁄æÃﬂƒópéÜ ID(1,0x1) ñºèÃ(çëï€íPì∆ äO) dat(bg22) ì˙éû(01/03/25,17:34:50,271827781)
+⁄æÃﬂƒópéÜ ID(1,0x1) ñºèÃ(çëï€íPì∆ äO) dat(bg22) ì˙éû(01/06/25,17:45:39,531674468)
 ---------------------------------------------------------------
 SBPrint(ALGOP) ëIëèÓïÒ(â∫ãLÇÃÉäÉXÉgÇÃíÜÇ©ÇÁ1î‘ÇÃÉtÉ@ÉCÉãÇ™égópÇ≥ÇÍÇ‹ÇµÇΩ) 
 àÛç¸ÉçÉWÉbÉN: bg22
@@ -3256,7 +3256,7 @@ SBPrint(ALGOP) ëIëèÓïÒ(â∫ãLÇÃÉäÉXÉgÇÃíÜÇ©ÇÁ1î‘ÇÃÉtÉ@ÉCÉãÇ™égópÇ≥ÇÍÇ‹ÇµÇΩ)
 égóp Algop Datñº:F:\userdbf\drs_std20230517\exe\getup.dat Ãß≤Ÿñ≥Çµ(bg22.dat) ChouzaiA4Rece(0) ChouzaiIttupouMatch(0)
 égóp SBPrint Dllñº:..\SBP\SBP_H_GE_BG22_202204_YC_FDMO.dll DLL Timestamp(2024/05/28 17:05:28,1839104) UseAlgopDat(0) SBPPRI(SBPrint Priority)=1 
 ----------------------------------------------------------------------
-ï€åØåvéZëO ì˙éû(01/03/25,17:34:50,271827843)
+ï€åØåvéZëO ì˙éû(01/06/25,17:45:39,531674687)
 range=9
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 (null)[]
@@ -3307,44 +3307,44 @@ person_no 1000  comeh_no 120104  year 2024  month  2  day  5  time/0  st/0  ya/0
 logic loc=111 ct=29 991 (0,0) 992 (0,0) 1060 (0,0) 1400 (0,0) 2100 (0,0) 2303 (0,0) 2341 (0,0) 2346 (0,0) 2381 (0,0) 2819 (0,0) 6001 (0,0) 6012 (0,0) 6051 (0,0) 6054 (0,0) 6065 (0,0) 6066 (0,0) 6073 (0,0) 6078 (0,0) 6083 (0,0) 6086 (0,0) 6262 (0,0) 6263 (0,0) 6286 (0,0) 8205 (0,0) 14892 (0,0) 14928 (0,0) 14929 (0,0) 16345 (0,0) 18117 (0,0) 
 lcbuf_size:140
 ---------------------------------------------------------------
-hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËëO) in GR_read_past(getuSB)) ì˙éû(01/03/25,17:34:50,271827859)
+hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËëO) in GR_read_past(getuSB)) ì˙éû(01/06/25,17:45:39,531674703)
 
-plogic_tbl(0x073C5250) comehno(119824,0x1d410,2024/1/2) 
-   1 ori_data.logic_code(2815) ori_data.tanni(3) ori_data.volume(1) ori_data.method(1) ori_data.sear_logic_code(2814) ori_data.taishou(0,0x0) standard_visit(120104,0x1d528,2024/2/5) end_visit(120072,0x1d508,2024/2/1) past_visit(119824,0x1d410,2024/1/2) next(0x073C51F8) 
-lpbuf(0x06821CC0) lpbuf_ct(2) (2814,2814)(2814,118215)
+plogic_tbl(0x05E87DF0) comehno(119824,0x1d410,2024/1/2) 
+   1 ori_data.logic_code(2815) ori_data.tanni(3) ori_data.volume(1) ori_data.method(1) ori_data.sear_logic_code(2814) ori_data.taishou(0,0x0) standard_visit(120104,0x1d528,2024/2/5) end_visit(120072,0x1d508,2024/2/1) past_visit(119824,0x1d410,2024/1/2) next(0x05E87DC0) 
+lpbuf(0x0B370FA0) lpbuf_ct(2) (2814,2814)(2814,118215)
    2 ori_data.logic_code(998) ori_data.tanni(3) ori_data.volume(1) ori_data.method(0) ori_data.sear_logic_code(2214) ori_data.taishou(0,0x0) standard_visit(120072,0x1d508,2024/2/1) end_visit(120072,0x1d508,2024/2/1) past_visit(119824,0x1d410,2024/1/2) next(0x00000000) 
-lpbuf(0x06821CA0) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
+lpbuf(0x0B370F80) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
 ---------------------------------------------------------------
-hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËå„) in GR_read_past(getuSB)) ì˙éû(01/03/25,17:34:50,271827859)
+hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËå„) in GR_read_past(getuSB)) ì˙éû(01/06/25,17:45:39,531674734)
 
-plogic_tbl(0x073C5250) comehno(119824,0x1d410,2024/1/2) 
-   1 ori_data.logic_code(2815) ori_data.tanni(3) ori_data.volume(1) ori_data.method(1) ori_data.sear_logic_code(2814) ori_data.taishou(0,0x0) standard_visit(120104,0x1d528,2024/2/5) end_visit(120072,0x1d508,2024/2/1) past_visit(119824,0x1d410,2024/1/2) next(0x073C51F8) 
-lpbuf(0x06821CC0) lpbuf_ct(2) (2814,2814)(2814,118215)
+plogic_tbl(0x05E87DF0) comehno(119824,0x1d410,2024/1/2) 
+   1 ori_data.logic_code(2815) ori_data.tanni(3) ori_data.volume(1) ori_data.method(1) ori_data.sear_logic_code(2814) ori_data.taishou(0,0x0) standard_visit(120104,0x1d528,2024/2/5) end_visit(120072,0x1d508,2024/2/1) past_visit(119824,0x1d410,2024/1/2) next(0x05E87DC0) 
+lpbuf(0x0B370FA0) lpbuf_ct(2) (2814,2814)(2814,118215)
    2 ori_data.logic_code(998) ori_data.tanni(3) ori_data.volume(1) ori_data.method(0) ori_data.sear_logic_code(2214) ori_data.taishou(0,0x0) standard_visit(120072,0x1d508,2024/2/1) end_visit(120072,0x1d508,2024/2/1) past_visit(119824,0x1d410,2024/1/2) next(0x00000000) 
-lpbuf(0x06821CA0) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
+lpbuf(0x0B370F80) lpbuf_ct(4) (2214,2214)(2214,118109)(2214,119938)(2214,121329)
 ---------------------------------------------------------------
-hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËëO) in GR_read_past(getuSB)) ì˙éû(01/03/25,17:34:50,271827859)
+hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËëO) in GR_read_past(getuSB)) ì˙éû(01/06/25,17:45:39,531674734)
 
-plogic_tbl(0x073C51A0) comehno(119816,0x1d408,2024/1/1) 
+plogic_tbl(0x05E87DC0) comehno(119816,0x1d408,2024/1/1) 
    1 ori_data.logic_code(2815) ori_data.tanni(3) ori_data.volume(1) ori_data.method(1) ori_data.sear_logic_code(2814) ori_data.taishou(0,0x0) standard_visit(120104,0x1d528,2024/2/5) end_visit(119824,0x1d410,2024/1/2) past_visit(119816,0x1d408,2024/1/1) next(0x00000000) 
-lpbuf(0x06821CC0) lpbuf_ct(2) (2814,2814)(2814,118215)
+lpbuf(0x0B370FA0) lpbuf_ct(2) (2814,2814)(2814,118215)
 ---------------------------------------------------------------
-hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËå„) in GR_read_past(getuSB)) ì˙éû(01/03/25,17:34:50,271827875)
+hlogic_tbl(ì«Ç›Ç†Ç™ÇËëŒè€ò_óù∫∞ƒﬁ) èÓïÒ(ì«Ç›Ç†Ç™ÇËèÓïÒ(ì«Ç›Ç†Ç™ÇËå„) in GR_read_past(getuSB)) ì˙éû(01/06/25,17:45:39,531674781)
 
-plogic_tbl(0x073C51A0) comehno(119816,0x1d408,2024/1/1) 
+plogic_tbl(0x05E87DC0) comehno(119816,0x1d408,2024/1/1) 
    1 ori_data.logic_code(2815) ori_data.tanni(3) ori_data.volume(1) ori_data.method(1) ori_data.sear_logic_code(2814) ori_data.taishou(0,0x0) standard_visit(120104,0x1d528,2024/2/5) end_visit(119824,0x1d410,2024/1/2) past_visit(119816,0x1d408,2024/1/1) next(0x00000000) 
-lpbuf(0x06821CC0) lpbuf_ct(2) (2814,2814)(2814,118215)
+lpbuf(0x0B370FA0) lpbuf_ct(2) (2814,2814)(2814,118215)
 --------------------- Timing Information ----------------------
 1. Statistics (number of times)
    - SBLogic COM server called           70
-   - COM called for SB functions       4725
+   - COM called for SB functions       2259
 
 2. Function Path (milliseconds)
-   GroupLogic              78
-   -> ReadPast             32
+   GroupLogic             297
+   -> ReadPast             78
       -> ReadHoken          2 times
-      -> ReadHoken Time:        16 millisec
-   -> HokenShori           46
+      -> ReadHoken Time:        78 millisec
+   -> HokenShori          187
       -> ReadPast2          0
          -> ReadHoken2      2 times
    -> Re-evaluation of logics for state changes
@@ -3356,17 +3356,17 @@ lpbuf(0x06821CC0) lpbuf_ct(2) (2814,2814)(2814,118215)
 
 4. Logic Calculation (count, milliseconds, milliseconds for ReadPast)
       0 (   1,   0,   0)   6263 (   6,   0,   0)   6262 (   6,   0,   0)  16345 (   1,   0,   0)   6286 (   6,   0,   0)
-   6012 (   6,   0,   0)   6001 (   6,   0,   0)   4937 (   1,   0,   0)   1400 (   2,   0,   0)   8205 (   6,   0,   0)
+   6012 (   6,   0,   0)   6001 (   6,   0,   0)   4937 (   1,   0,   0)   1400 (   2,  16,   0)   8205 (   6,   0,   0)
   14199 (   2,   0,   0)   2497 (   1,   0,   0)  18295 (   1,   0,   0)   6054 (   6,   0,   0)   6051 (   6,   0,   0)
    2815 (   1,   0,   0)   2543 (   1,   0,   0)   6078 (   6,   0,   0)   6073 (   6,   0,   0)   6066 (   6,   0,   0)
    6065 (   6,   0,   0)   2819 (   1,   0,   0)  19151 (   1,   0,   0)   6086 (   6,   0,   0)   6083 (   6,   0,   0)
-   4750 (   1,   0,   0)   2303 (   1,   0,   0)   1764 (   1,   0,   0)    134 (   1,   0,   0)   2600 (   1,   0,   0)
+   4750 (   1,   0,   0)   2303 (   1,   0,   0)   1764 (   1,   0,   0)    134 (   1,  16,   0)   2600 (   1,  15,   0)
   18117 (   1,   0,   0)   2341 (   2,   0,   0)   2347 (   1,   0,   0)    991 (   6,   0,   0)    992 (   6,   0,   0)
-    998 (   2,   0,   0)  14895 (   1,   0,   0)   2100 (   1,   0,   0)   4006 (   1,   0,   0)   4003 (   1,  16,   0)
-   2381 (   1,   0,   0)  14892 (   5,   0,   0)   2411 (   1,   0,   0)   1060 (   1,  15,   0)   1059 (   1,   0,   0)
-  14929 (   3,   0,   0)  14928 (   3,   0,   0)   1876 (   1,   0,   0)   1058 (   1,  15,   0)
+    998 (   2,  78,   0)  14895 (   1,   0,   0)   2100 (   1,   0,   0)   4006 (   1,   0,   0)   4003 (   1,   0,   0)
+   2381 (   1,   0,   0)  14892 (   5,   0,   0)   2411 (   1,   0,   0)   1060 (   1,   0,   0)   1059 (   1,   0,   0)
+  14929 (   3,   0,   0)  14928 (   3,   0,   0)   1876 (   1,   0,   0)   1058 (   1,  47,   0)
    Total number of logics called    49
-   Total logic-calculation time     46 (HokenShori + Re-evaluation for state changes)
+   Total logic-calculation time    172 (HokenShori + Re-evaluation for state changes)
 ----------------------------------------------------------------------
 èàï˚ÇπÇÒóøÅAèàï˚óøÇÃéZíËÇ…égópÇµÇΩñÚç‹
 
@@ -3401,7 +3401,7 @@ kusuri.dbfÇÃóLå¯ä˙ä‘ÉåÉRÅ[ÉhÇÃku_zoro: 0x80
 äYìññÚç‹Ç»Çµ
 
 ----------------------------------------------------------------------
-ï€åØåvéZå„ ì˙éû(01/03/25,17:34:51,271827921)
+ï€åØåvéZå„ ì˙éû(01/06/25,17:45:39,531674984)
 range=9
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 (null)[]
@@ -3452,7 +3452,7 @@ person_no 1000  comeh_no 120104  year 2024  month  2  day  5  time/0  st/1000  y
 logic loc=112 ct=29 991 (0,0) 992 (0,0) 1060 (82,0) 1400 (0,0) 2100 (80,0) 2303 (80,0) 2341 (0,0) 2346 (80,0) 2381 (80,0) 2819 (80,0) 6001 (0,0) 6012 (0,0) 6051 (0,0) 6054 (0,0) 6065 (0,0) 6066 (0,0) 6073 (0,0) 6078 (0,0) 6083 (0,0) 6086 (0,0) 6262 (0,0) 6263 (0,0) 6286 (0,0) 8205 (0,0) 14892 (0,0) 14928 (82,0) 14929 (0,0) 16345 (0,0) 18117 (0,0) 
 lcbuf_size:143
 ---------------------------------------------------------------
-person struct èÓïÒ(ï€åØåvéZå„) ì˙éû(01/03/25,17:34:51,271827921)
+person struct èÓïÒ(ï€åØåvéZå„) ì˙éû(01/06/25,17:45:39,531675000)
 ä≥é“î‘çÜ k_no(1000) userno(NULL Pointer)
 ptoa(1000,0x3e8) fa_f(0,0x0) fa(0,0x0) birth(1967/6/22)
 
@@ -3470,12 +3470,12 @@ kanjya_futan2(0) kanjya_futan(0) kanjya_futanritu(158,0x9e) genmen(0,0x0) genrit
 rousai byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 byouin byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 ---------------------------------------------------------------
-FUTAN_IN struct èÓïÒ(FutanKeisan callëO) ì˙éû(01/03/25,17:34:51,271827921)
+FUTAN_IN struct èÓïÒ(FutanKeisan callëO) ì˙éû(01/06/25,17:45:39,531675000)
 
-psumbox(0x07380850,0x00000000,0x00000000,0x00000000,0x00000000)
+psumbox(0x05E88568,0x00000000,0x00000000,0x00000000,0x00000000)
 end_comeh(120319,0x1d5ff,2024/2/31) first_comeh(120072,0x1d508,2024/2/1) futankin(0) ritu_keisan(0) YAKKYOKU(0) rousai_shitei(0) bath_year(67) bath_month(6) bath_day(22) year(124) month(2) days(0,0x00)
 ckind0(110,0) chdl(1) ckind1(0,0) chdl(0) ckind2(0,0) chdl(0) ckind3(0,0) chdl(0) ckind4(0,0) chdl(0) 
-paper_code(1) horecept(0x07379B88) hSebuf(0,0x0) id_shu_shinryouka(0) HOKENDISKOUT_SWITCH(1) byouin_code(0) byouin_flag(0x00000000) IkaRouFutankinMode(0) shohousen_f(0) hGetuSebuf(0,0x0) shohousen_comehno(0,0x0,1985/1/0) PreIkaRouFutankinMode(0,0x0) RaiinMode(0,0x0) zaisoushin_f(1) zaisoushin_comehno(0,0x0,1985/1/0) sta_comeh(120072,0x1d508,2024/2/1) reserve(0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+paper_code(1) horecept(0x14490D80) hSebuf(0,0x0) id_shu_shinryouka(0) HOKENDISKOUT_SWITCH(1) byouin_code(0) byouin_flag(0x00000000) IkaRouFutankinMode(0) shohousen_f(0) hGetuSebuf(0,0x0) shohousen_comehno(0,0x0,1985/1/0) PreIkaRouFutankinMode(0,0x0) RaiinMode(0,0x0) zaisoushin_f(1) zaisoushin_comehno(0,0x0,1985/1/0) sta_comeh(120072,0x1d508,2024/2/1) reserve(0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
 
 --------------------------------------------------------
 SBFutan drs.iniê›íËèÓïÒ
@@ -3547,11 +3547,11 @@ Init(0ms)
 WariaiKeisan(0ms)
 ShokujiKeisan(0ms)
 MakeServerList(0ms)
-ServerCalculation(16ms)
+ServerCalculation(0ms)
 ShowWarning_CheckMarucho(0ms)
 SetFutanOut(0ms)
 ----
-StartCalc(16ms)
+StartCalc(0ms)
 
 --------------------------------------------------------
 Futan values in hoken structure (zero-yen and skipped items are not shown)
@@ -3581,7 +3581,7 @@ Calculation Status
 
 
 ---------------------------------------------------------------
-seisan_box struct èÓïÒ(SBFutan(delta version) åvéZíºå„) ì˙éû(01/03/25,17:34:51,271827937)
+seisan_box struct èÓïÒ(SBFutan(delta version) åvéZíºå„) ì˙éû(01/06/25,17:45:39,531675000)
 
 No.0 kind(1,0x1)
 yenten(0) yenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0) futanyen(0) futanyenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
@@ -3600,11 +3600,11 @@ sitsuryo_yen(0) sitsuryo_futan(0) sitsuryo_day(0) sitsuryo_hyojyun_futan(0)
 seikatu_yen(0) seikatu_futan(0) seikatu_day(0) seikatu_hyojyun_futan(0)
 sentei_sum(0) sentei_shouhizei_sum(0)
 ---------------------------------------------------------------
-FUTAN_OUT struct èÓïÒ(FutanKeisan callå„) ì˙éû(01/03/25,17:34:51,271827937)
+FUTAN_OUT struct èÓïÒ(FutanKeisan callå„) ì˙éû(01/06/25,17:45:39,531675000)
 
-lpseisan_data(0x020C132C) lpK_KYUFU_G(0x020D388C) *lpK_KYUFU_G(7,0x7) lpK_KYUFU_N(0x020D371C) *lpK_KYUFU_N(7,0x7) lpfutan_ritu(0x020D3710) *lpfutan_ritu(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) *lpfutan_ritu2(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) WarnningRoujinGairaiShohousenClip(0) RetFlags.Use_TougetuSouTensuu(0) RetFlags.Use_TougetuSouSeikyu(0) RetFlags.Show_SaikeisanGamen(0) RetFlags.Dummy(0,0x0) TougetuSouTensuu(0) TougetuSouSeikyu(0) reserve(0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+lpseisan_data(0x10452E8C) lpK_KYUFU_G(0x104623A4) *lpK_KYUFU_G(7,0x7) lpK_KYUFU_N(0x10462234) *lpK_KYUFU_N(7,0x7) lpfutan_ritu(0x10462228) *lpfutan_ritu(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) *lpfutan_ritu2(30(0x1e),0(0x0),0(0x0),0(0x0),0(0x0)) WarnningRoujinGairaiShohousenClip(0) RetFlags.Use_TougetuSouTensuu(0) RetFlags.Use_TougetuSouSeikyu(0) RetFlags.Show_SaikeisanGamen(0) RetFlags.Dummy(0,0x0) TougetuSouTensuu(0) TougetuSouSeikyu(0) reserve(0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
 ----------------------------------------------------------------------
-ïâíSã‡åvéZå„ ì˙éû(01/03/25,17:34:51,271827937)
+ïâíSã‡åvéZå„ ì˙éû(01/06/25,17:45:39,531675000)
 range=8
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 èàï˚‚≥óø(ÿÃ®Ÿà»äOÅEÇªÇÃëº)
@@ -3643,14 +3643,14 @@ logic loc=88 ct=24 991 (0,0) 992 (0,0) 1059 (0,0) 2341 (0,0) 2381 (0,0) 2819 (0,
 person_no 1000  comeh_no 120104  year 2024  month  2  day  5  time/0  st/1000  ya/0 zaikei0 rec_mode (0x10,16) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 228  id_1  22  id_2  0  id_3  71  id_3_5 1600  id_ko  1  id_hogai00  id_4  1  id_4_5  1  id_sub_shohou_no  1  id_5  0  id_6  1676  seq  0  id_7   0  id_8   0  id_9 171  id_10 19  id_10_seikyu 19  id_11       1.0  id_12     1.000  id_13   1  id_14   41.0  id_sum     41  shohou_g_no 128  shohou_g_no2 0  shohou_g_oya 0  zangen_g_no 0  125002 50005 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 ïaãChdl()  dencd(160006810) zoro(0) org_id_4(1) hdl_shouhizei(49) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(160006810) nyuin_nisuu(-)
 logic loc=112 ct=29 991 (0,0) 992 (0,0) 1060 (0,0) 1400 (0,0) 2100 (0,0) 2303 (0,0) 2341 (0,0) 2346 (0,0) 2381 (0,0) 2819 (0,0) 6001 (0,0) 6012 (0,0) 6051 (0,0) 6054 (0,0) 6065 (0,0) 6066 (0,0) 6073 (0,0) 6078 (0,0) 6083 (0,0) 6086 (0,0) 6262 (0,0) 6263 (0,0) 6286 (0,0) 8205 (0,0) 14892 (0,0) 14928 (0,0) 14929 (0,0) 16345 (0,0) 18117 (0,0) 
-   7 Twû˘Ò
+   7 î1
 (null)
 person_no 1000  comeh_no 120319  year 2024  month  2  day 31  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 253  id_1 255  id_2  0  id_3   1  id_3_549999  id_ko  1  id_hogai00  id_4  3  id_4_5  0  id_sub_shohou_no  1  id_5  0  id_6     0  seq  0  id_7   0  id_8   0  id_9   0  id_10  0  id_10_seikyu  0  id_11       0.0  id_12     0.000  id_13   1  id_14    0.0  id_sum      0  shohou_g_no 0  shohou_g_no2 0  shohou_g_oya 3  zangen_g_no 0  0 81546 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 ïaãChdl()  dencd(0) zoro(0) org_id_4(0) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(0) nyuin_nisuu(-)
 logic loc=0 ct=1 1:16010 (0,0)
 lcbuf_size:143
 ---------------------------------------------------------------
-seisan_box struct èÓïÒ(ï€åØåvéZå„) ì˙éû(01/03/25,17:34:51,271827937)
+seisan_box struct èÓïÒ(ï€åØåvéZå„) ì˙éû(01/06/25,17:45:39,531675000)
 
 No.0 kind(1,0x1)
 yenten(0) yenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0) futanyen(0) futanyenten_meisai(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
@@ -3669,7 +3669,7 @@ sitsuryo_yen(0) sitsuryo_futan(0) sitsuryo_day(0) sitsuryo_hyojyun_futan(0)
 seikatu_yen(0) seikatu_futan(0) seikatu_day(0) seikatu_hyojyun_futan(0)
 sentei_sum(0) sentei_shouhizei_sum(0)
 ----------------------------------------------------------------------
-%4u åèñ⁄ àÛç¸íÜ   ä≥é“î‘çÜ%6lu  éÅñºÅF%-20s ì˙éû(01/03/25,17:34:51,271827937)
+%4u åèñ⁄ àÛç¸íÜ   ä≥é“î‘çÜ%6lu  éÅñºÅF%-20s ì˙éû(01/06/25,17:45:39,531675015)
 range=8
 No.17(2018/4/1-9999/0/0)kusuri.dbf(2023/4/1-2100/12/31)logic.dbf(2023/4/1-2100/12/31)
    0 ï≥ï÷åüç∏||
@@ -3701,7 +3701,7 @@ person_no 1000  comeh_no 120072  year 2024  month  2  day  1  time/0  st/0  ya/0
 ¿∏ﬁ({351}èâÇﬂÇƒñ{êªç‹Çìäó^ÇµÇΩîNåéÅiÉåÉpÅ[ÉTîÁâ∫íçÇPÇSÇOÇçÇáÉyÉìÅj:<2023>îN<8>åé,gy=2023,m=8,id=194,nc=2951,sq=0,dc=850600107,rd="5050800")
 person_no 1000  comeh_no 120072  year 2024  month  2  day  1  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 224  id_1 100  id_2  0  id_3 106  id_3_5    0  id_ko  1  id_hogai00  id_4  1  id_4_5  3  id_sub_shohou_no  1  id_5  0  id_6  1000  seq  0  id_7   0  id_8   0  id_9 197  id_10  0  id_10_seikyu  0  id_11       0.0  id_12     0.000  id_13   0  id_14    0.0  id_sum      0  shohou_g_no 129  shohou_g_no2 0  shohou_g_oya 0  zangen_g_no 0  19151 50002 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 ïaãChdl()  dencd(0) zoro(0) org_id_4(1) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(0) nyuin_nisuu(-)
-   7 Twû˘Ò
+   7 î1
 (null)
 person_no 1000  comeh_no 120319  year 2024  month  2  day 31  time/0  st/0  ya/0 zaikei0 rec_mode (0x0,0) newin_year   0  newin_month  0  newin_dayd  0  newin_dayf 0  age_year 56  age_day 253  id_1 255  id_2  0  id_3   1  id_3_549999  id_ko  1  id_hogai00  id_4  3  id_4_5  0  id_sub_shohou_no  1  id_5  0  id_6     0  seq  0  id_7   0  id_8   0  id_9   0  id_10  0  id_10_seikyu  0  id_11       0.0  id_12     0.000  id_13   1  id_14    0.0  id_sum      0  shohou_g_no 0  shohou_g_no2 0  shohou_g_oya 3  zangen_g_no 0  0 81546 byouin_no 0  tentoyen 100  genka     0.000  doctor 0  shinryouka 0  id_futankin  0.0  id_hohdl(1,0,0)  id_fwork0  id_shu_shinryouka0  
 ïaãChdl()  dencd(0) zoro(0) org_id_4(0) hdl_shouhizei(0) id_shouhizei_gaku(0.000000) id_ittupoudays(0) id_yakuzaitenbyday(0) id_ittupounaidays(0) id_ittupounaidencd(0) org_id_hohdl(0,0,0) strDencd(0) nyuin_nisuu(-)
@@ -3713,8 +3713,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(1) hoken_rec(0x739ac98) print_str((null)) sho_ku(0)
+hoken_box(0x5e87d60) NO(0)
+hoken_loc(1) hoken_rec(0x5f06920) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(71) id_3_5(1600) id_3_5_c(NULL Pointer) id_9(171) id_6(1676) id_6_c(ï≥ï÷íÜÕ”∏ﬁ€Àﬁ›/◊√Ø∏Ωã√èWñ@(1ì˙ñ⁄)||1B0401301015) id_sum(41)
 aHokenLoc(1)
 
@@ -3729,8 +3729,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(1) hoken_rec(0x739ac98) print_str((null)) sho_ku(0)
+hoken_box(0x5e87d60) NO(0)
+hoken_loc(1) hoken_rec(0x5f06920) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(71) id_3_5(1600) id_3_5_c(NULL Pointer) id_9(171) id_6(1676) id_6_c(ï≥ï÷íÜÕ”∏ﬁ€Àﬁ›/◊√Ø∏Ωã√èWñ@(1ì˙ñ⁄)||1B0401301015) id_sum(41)
 aHokenLoc(1)
 
@@ -3745,8 +3745,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f63078) NO(0)
-hoken_loc(2) hoken_rec(0x739a310) print_str((null)) sho_ku(0)
+hoken_box(0x5e87d90) NO(0)
+hoken_loc(2) hoken_rec(0x5f06658) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 aHokenLoc(2)
 
@@ -3761,8 +3761,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f63078) NO(0)
-hoken_loc(2) hoken_rec(0x739a310) print_str((null)) sho_ku(0)
+hoken_box(0x5e87d90) NO(0)
+hoken_loc(2) hoken_rec(0x5f06658) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 aHokenLoc(2)
 
@@ -3771,46 +3771,14 @@ aHokenPtr
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 
 ---------------------------------------------------
-TekiSetBox èÓïÒ(pattern_match É\Å[ÉgëO 8)
-
-teki_set NO[0]
-days(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
-times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
-
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
-comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
-aHokenLoc(6)
-
-aHokenPtr
-
-comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
-
----------------------------------------------------
-TekiSetBox èÓïÒ(pattern_match É\Å[Égå„ 8)
-
-teki_set NO[0]
-days(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
-times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
-
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
-comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
-aHokenLoc(6)
-
-aHokenPtr
-
-comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
-
----------------------------------------------------
 TekiSetBox èÓïÒ(pattern_match É\Å[ÉgëO 14)
 
 teki_set NO[0]
 days(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f632a8) NO(0)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
+hoken_box(0x5e87c10) NO(0)
+hoken_loc(6) hoken_rec(0x5f067a0) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 aHokenLoc(6)
 
@@ -3825,8 +3793,8 @@ teki_set NO[0]
 days(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f632a8) NO(0)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
+hoken_box(0x5e87c10) NO(0)
+hoken_loc(6) hoken_rec(0x5f067a0) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 aHokenLoc(6)
 
@@ -3841,8 +3809,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f632a8) NO(0)
-hoken_loc(2) hoken_rec(0x739a310) print_str((null)) sho_ku(0)
+hoken_box(0x5e87ca0) NO(0)
+hoken_loc(2) hoken_rec(0x5f06658) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 aHokenLoc(2)
 
@@ -3857,8 +3825,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f632a8) NO(0)
-hoken_loc(2) hoken_rec(0x739a310) print_str((null)) sho_ku(0)
+hoken_box(0x5e87ca0) NO(0)
+hoken_loc(2) hoken_rec(0x5f06658) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 aHokenLoc(2)
 
@@ -3873,8 +3841,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f63028) NO(0)
-hoken_loc(2) hoken_rec(0x739a310) print_str((null)) sho_ku(0)
+hoken_box(0x5e87c40) NO(0)
+hoken_loc(2) hoken_rec(0x5f06658) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 aHokenLoc(2)
 
@@ -3889,8 +3857,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f63028) NO(0)
-hoken_loc(2) hoken_rec(0x739a310) print_str((null)) sho_ku(0)
+hoken_box(0x5e87c40) NO(0)
+hoken_loc(2) hoken_rec(0x5f06658) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(72) id_3_5(1000) id_3_5_c(îAÅEï≥ï÷ìôåüç∏îªífóø||) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(34)
 aHokenLoc(2)
 
@@ -3905,8 +3873,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(1) hoken_rec(0x739ac98) print_str((null)) sho_ku(0)
+hoken_box(0x5e87f40) NO(0)
+hoken_loc(1) hoken_rec(0x5f06920) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(71) id_3_5(1600) id_3_5_c(NULL Pointer) id_9(171) id_6(1676) id_6_c(ï≥ï÷íÜÕ”∏ﬁ€Àﬁ›/◊√Ø∏Ωã√èWñ@(1ì˙ñ⁄)||1B0401301015) id_sum(41)
 aHokenLoc(1)
 
@@ -3921,8 +3889,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(1) hoken_rec(0x739ac98) print_str((null)) sho_ku(0)
+hoken_box(0x5e87f40) NO(0)
+hoken_loc(1) hoken_rec(0x5f06920) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(71) id_3_5(1600) id_3_5_c(NULL Pointer) id_9(171) id_6(1676) id_6_c(ï≥ï÷íÜÕ”∏ﬁ€Àﬁ›/◊√Ø∏Ωã√èWñ@(1ì˙ñ⁄)||1B0401301015) id_sum(41)
 aHokenLoc(1)
 
@@ -3937,8 +3905,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(1) hoken_rec(0x739ac98) print_str((null)) sho_ku(0)
+hoken_box(0x5e87f40) NO(0)
+hoken_loc(1) hoken_rec(0x5f06920) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(71) id_3_5(1600) id_3_5_c(NULL Pointer) id_9(171) id_6(1676) id_6_c(ï≥ï÷íÜÕ”∏ﬁ€Àﬁ›/◊√Ø∏Ωã√èWñ@(1ì˙ñ⁄)||1B0401301015) id_sum(41)
 aHokenLoc(1)
 
@@ -3953,8 +3921,8 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(1) hoken_rec(0x739ac98) print_str((null)) sho_ku(0)
+hoken_box(0x5e87f40) NO(0)
+hoken_loc(1) hoken_rec(0x5f06920) print_str((null)) sho_ku(0)
 comeh(124/2/5) id3(71) id_3_5(1600) id_3_5_c(NULL Pointer) id_9(171) id_6(1676) id_6_c(ï≥ï÷íÜÕ”∏ﬁ€Àﬁ›/◊√Ø∏Ωã√èWñ@(1ì˙ñ⁄)||1B0401301015) id_sum(41)
 aHokenLoc(1)
 
@@ -3969,13 +3937,13 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(3) hoken_rec(0x7372df8) print_str((null)) sho_ku(0)
+hoken_box(0x5e87d00) NO(0)
+hoken_loc(3) hoken_rec(0x5f06418) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(èàï˚‚≥óø(ÿÃ®Ÿà»äOÅEÇªÇÃëº)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(3)
 
-hoken_box(0x14f632a8) NO(1)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
+hoken_box(0x5e87fa0) NO(1)
+hoken_loc(6) hoken_rec(0x5f067a0) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 aHokenLoc(6)
 
@@ -3992,13 +3960,13 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f62fd8) NO(0)
-hoken_loc(3) hoken_rec(0x7372df8) print_str((null)) sho_ku(0)
+hoken_box(0x5e87d00) NO(0)
+hoken_loc(3) hoken_rec(0x5f06418) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(èàï˚‚≥óø(ÿÃ®Ÿà»äOÅEÇªÇÃëº)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(3)
 
-hoken_box(0x14f632a8) NO(1)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
+hoken_box(0x5e87fa0) NO(1)
+hoken_loc(6) hoken_rec(0x5f067a0) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 aHokenLoc(6)
 
@@ -4015,13 +3983,13 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f63028) NO(0)
-hoken_loc(3) hoken_rec(0x7372df8) print_str((null)) sho_ku(0)
+hoken_box(0x5e87e50) NO(0)
+hoken_loc(3) hoken_rec(0x5f06418) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(èàï˚‚≥óø(ÿÃ®Ÿà»äOÅEÇªÇÃëº)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(3)
 
-hoken_box(0x14f62588) NO(1)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
+hoken_box(0x5e87c10) NO(1)
+hoken_loc(6) hoken_rec(0x5f067a0) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 aHokenLoc(6)
 
@@ -4038,13 +4006,13 @@ teki_set NO[0]
 days(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 times(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 
-hoken_box(0x14f63028) NO(0)
-hoken_loc(3) hoken_rec(0x7372df8) print_str((null)) sho_ku(0)
+hoken_box(0x5e87e50) NO(0)
+hoken_loc(3) hoken_rec(0x5f06418) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(èàï˚‚≥óø(ÿÃ®Ÿà»äOÅEÇªÇÃëº)) id_9(0) id_6(0) id_6_c(NULL Pointer) id_sum(68)
 aHokenLoc(3)
 
-hoken_box(0x14f62588) NO(1)
-hoken_loc(6) hoken_rec(0x739a228) print_str((null)) sho_ku(0)
+hoken_box(0x5e87c10) NO(1)
+hoken_loc(6) hoken_rec(0x5f067a0) print_str((null)) sho_ku(0)
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 aHokenLoc(6)
 
@@ -4055,8 +4023,8 @@ comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(èàï˚‚≥óø(ÿÃ®Ÿà»äOÅEÇªÇÃëº)) id_9(0) i
 comeh(124/2/1) id3(106) id_3_5(0) id_3_5_c(NULL Pointer) id_9(197) id_6(1000) id_6_c(NULL Pointer) id_sum(0)
 
 ---------------------------------------------------------------
-algopxy.dbfÇÊÇËì«ÇÒÇæXYç¿ïWèÓïÒ(in GP_lpout(algopä÷êîÅuGP_PrintOutÅvèIóπéû)) ì˙éû(01/03/25,17:34:51,271828187)
-m_read_paper_name(bg22) m_paper_name() xy_paper_len(8) xy_label_len(20) maxnum(5000) xytbl(0x04620068) 
+algopxy.dbfÇÊÇËì«ÇÒÇæXYç¿ïWèÓïÒ(in GP_lpout(algopä÷êîÅuGP_PrintOutÅvèIóπéû)) ì˙éû(01/06/25,17:45:48,531683484)
+m_read_paper_name(bg22) m_paper_name() xy_paper_len(8) xy_label_len(20) maxnum(5000) xytbl(0x03060048) 
    0 label(ALL)x(  0.00)y(  0.00)w(  0.00)h(  0.00)charsp(  0.00)
    1 label(ADD)x( 11.90)y(  5.00)w(  8.38)h(  0.00)charsp(  0.00)
    2 label(ADD)x( 11.90)y(  5.00)w(  8.38)h(  0.00)charsp(  0.00)
@@ -4139,7 +4107,7 @@ m_read_paper_name(bg22) m_paper_name() xy_paper_len(8) xy_label_len(20) maxnum(5
 1565 label(JBK_KENSA_SHOKEI)x(  0.00)y(  0.00)w(  0.00)h(  0.00)charsp(  0.00)
 1567 label(JBK_SHOHOUSEN_SHOKEI)x(  0.00)y(  0.00)w(  0.00)h(  0.00)charsp(  0.00)
 ---------------------------------------------------------------
-person struct èÓïÒ(algopé¿çså„) ì˙éû(01/03/25,17:34:51,271828203)
+person struct èÓïÒ(algopé¿çså„) ì˙éû(01/06/25,17:45:48,531683484)
 ä≥é“î‘çÜ k_no(1000) userno(NULL Pointer)
 ptoa(1000,0x3e8) fa_f(0,0x0) fa(0,0x0) birth(1967/6/22)
 
@@ -4157,16 +4125,16 @@ kanjya_futan2(0) kanjya_futan(0) kanjya_futanritu(158,0x9e) genmen(0,0x0) genrit
 rousai byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 byouin byouinmei(NULL Pointer) jusho(NULL Pointer) ishimei(NULL Pointer)
 ---------------------------------------------------------------
-é¿êfó√ì˙êî,éÛïtâÒêî èÓïÒ(log_db_data_set 1 in test34.cpp) ì˙éû(01/03/25,17:34:51,271828203)
+é¿êfó√ì˙êî,éÛïtâÒêî èÓïÒ(log_db_data_set 1 in test34.cpp) ì˙éû(01/06/25,17:45:48,531683500)
 
 days(2) seisan_box_loc(0) ho_flag(0,0,0,0,0,0,0,0,0,0) ex_ho_flag(0,0,0,0,0,0,0,0,0,0)  ÉJÉEÉìÉgèÓïÒ:(0,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
 ----------------------------------
 é¿êfó√ì˙êîÅAï€åØÉnÉìÉhÉãÇ≤Ç∆
-kind[726880486]
+kind[2010178588]
 hohdl[0] day[0]
 hohdl[0] day[0]
 hohdl[0] day[0]
 ---------------------------------------------------------------
-é¿êfó√ì˙êî,éÛïtâÒêî èÓïÒ(set_kansan_futan_hoken in test34.cpp) ì˙éû(01/03/25,17:34:51,271828203)
+é¿êfó√ì˙êî,éÛïtâÒêî èÓïÒ(set_kansan_futan_hoken in test34.cpp) ì˙éû(01/06/25,17:45:48,531683500)
 
 days(2) seisan_box_loc(-1) ho_flag(NULL) ex_ho_flag(NULL)  ÉJÉEÉìÉgèÓïÒ:(0,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
